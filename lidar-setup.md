@@ -1,6 +1,6 @@
 # Instructions for integrating Hokuyo UST-10LX with NVIDIA Jetson TX2
 
-<img src="figures/jetson-tx2-lidar.jpg" width=25%>
+<p align="center"><img src="figures/jetson-tx2-lidar.jpg" width=25%></p>
 
 ## References
 - https://f1tenth.readthedocs.io/en/latest
@@ -20,7 +20,7 @@
 ## Hokuyo LiDAR sensor connection
 - Strip the brown (DC in) and blue (ground) wires from the LiDAR 5-pin connector and power them using a wall adapter or suitable power supply. Below is a temporary jank example using a 12V barrel plug. Be very careful to get the positive and ground connections right.
 
-  <img src="figures/lidar-power-jank.jpg" width=25%>
+<p align="center"><img src="figures/lidar-power-jank.jpg" width=25%></p>
 
 - Configure the TX2 eth0 interface as follows:
   ```
@@ -56,4 +56,4 @@
   ```
 - In the rviz application, modify the `Fixed Frame` entry to "laser", then add a new display by topic using the "/scan" topic. It should look like the following:
 
-  <img src="figures/rviz-example.png" width=50%>
+<p align="center"><img src="figures/rviz-example.png" width=75%></p>
