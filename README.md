@@ -4,9 +4,9 @@ general documentation
 ## Index
 1. [Overview](overview.md)
 2. [Instructions for integrating Hokuyo UST-10LX with NVIDIA Jetson TX2](lidar-setup.md)
-3. TODO: Physical Layout, models, shell, mounting hardware (standoffs, screw & wrench sizes, etc.)
+3. [Physical Layout & Manual Control](physical-layout.md)
 4. [Power Delivery](power.md)
-5. TODO: RPS sensors: schematic, diagram of encoder wheel, sensor/spoke spacing, photos
+5. [RPS Sensors](rps-sensors.md)
 6. TODO: Throttle control: ESC wierdness, FSM, manual
 7. TODO: Pathfinding: algorithm, visual examples, head node input/output interface
 8. TODO: `mcu_pub` serialized format
