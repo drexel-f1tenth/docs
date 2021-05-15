@@ -12,3 +12,7 @@ general documentation
 8. TODO: Pathfinding: algorithm, visual examples, head node input/output interface
 9. TODO: operating manual: flicking switches, pushing buttons, ssh, `ifdown eth0` nonsense
 10. TODO: tools: `mcu_pub` serialized format, lidar-debug.py
+
+## Video
+
+Short video clips can be found under `video/`. Note that the car slips a lot on wood floors, so take care to optimize for performance on concrete or whatever other flooring you care to race on.

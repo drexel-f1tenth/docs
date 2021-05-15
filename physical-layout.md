@@ -21,7 +21,7 @@ These, and the Traxxas 5000mAh 3S 11.1V LiPo Battery Pack are the components nec
 The Jetson TX2 and sensor board (MCU/IMU) are mounted above the retention bracket of the battery. There should be a USB connection to the MCU (Arduino microcontroller) and an Ethernet connection to the LiDAR.
 
 The power board is mounted to the under-side of the rear segment of the shell.
-Make sure the power board is switched off while attaching the output jumper wires to all compute modules and then inserting the barrel plug from the battery wire. Please consult the [power board schematic](power.md) when making connections and [sensor board schematic](sensor-board.md). 12V power terminals should be connected to the TX2 and LiDAR. 5V power terminals should be connected to the sensor board power input pins.
+Make sure the power board is switched off while attaching the output jumper wires to all compute modules and then inserting the barrel plug from the battery wire. Please consult the [power board schematic](power.md) and [sensor board schematic](sensor-board.md) when making connections. 12V power terminals should be connected to the TX2 and LiDAR. 5V power terminals should be connected to the sensor board power input pins.
 
 ## Shell
 
