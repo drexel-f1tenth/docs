@@ -1,7 +1,7 @@
 # Physical Layout & Manual Control
 
 <p align="center">
-  <img src="figures/chassis.jpg" width="37%" style="transform:rotate(180deg);">
+  <img src="figures/chassis.jpg" width="37%">
   <img src="figures/compute-modules.png" width="40%">
 </p>
 
