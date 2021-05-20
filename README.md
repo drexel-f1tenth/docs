@@ -8,10 +8,9 @@ general documentation
 4. [Power Delivery](power.md)
 5. [RPS Sensors](rps-sensors.md)
 6. [Sensor Board](sensor-board.md)
-7. TODO: Throttle control: ESC wierdness, FSM, manual
-8. TODO: Pathfinding: algorithm, visual examples, head node input/output interface
-9. TODO: operating manual: flicking switches, pushing buttons, ssh, `ifdown eth0` nonsense
-10. TODO: tools: `mcu_pub` serialized format, lidar-debug.py
+7. [Throttle Control](throttle-control.md)
+8. TODO: Pathfinding: algorithm, visual examples, link to pathfinding repo
+9. TODO: Operating Manual: flicking switches, pushing buttons, ssh, orchestration
 
 ## Video
 

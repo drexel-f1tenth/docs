@@ -20,3 +20,5 @@ Below is the schematic for the power board and a photo of the soldered perfboard
 ## Recommended improvements
 
 - It would be more energy efficient to replace the linear voltage regulator with a buck converter. This would be especially important if more than 300mA is drawn from the 5V outputs at any time, since the transistor has no heat sink and would begin putting out a lot of head and possibly trigger its internal safety cutoff. Even if less current is drawn, which should currently be the case, a buck converter would increase battery life by decreasing the wasted energy converted to heat.
+
+- All circuit boards created by soldering onto perfboard should be recreated on printed circuit boards.
