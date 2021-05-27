@@ -9,8 +9,6 @@ general documentation
 5. [RPS Sensors](rps-sensors.md)
 6. [Sensor Board](sensor-board.md)
 7. [Throttle Control](throttle-control.md)
-8. TODO: Pathfinding: algorithm, visual examples, link to pathfinding repo
-9. TODO: Operating Manual: flicking switches, pushing buttons, ssh, orchestration
 
 ## Video
 
